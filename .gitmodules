@@ -1,0 +1,6 @@
+[submodule "alft4-front"]
+	path = alft4-front
+	url = git@github.com:egedolmaci/alft4-front.git
+[submodule "backend-github-hachathon"]
+	path = backend-github-hachathon
+	url = git@github.com:egedolmaci/backend-github-hachathon.git
